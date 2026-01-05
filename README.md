@@ -1,10 +1,8 @@
 # Flclash-scripts_ExpandForMe
 
 * Fork 自 [ZipZhu/Flclash-scripts](https://github.com/ZipZhu/Flclash-scripts)，我会根据自己的需求进行修改，也就是自用版本，自用版本，我会在其后面添加 `_ExpandForMe` 后缀。
-* 我是新手，连GitHub都不会用，所以不会提交PR给原作者。（但是我误操作提交过一个，苦苦）
+* 我是新手，连GitHub都不会用，所以不会提交PR给原作者大大。（但是我误操作提交过一个，苦苦）
 * 此README.md 是由AI生成的，可能存在错误或不完整的地方。
-
-* 此README
 
 脚本专为 **Flclash**制作，或可用于**Clash Verge Rev**，但后者未测试，不保证可用性与稳定性。
 
